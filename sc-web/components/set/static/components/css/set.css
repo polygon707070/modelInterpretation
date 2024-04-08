@@ -1,0 +1,21 @@
+.inputBox {
+    vertical-align: middle;
+    display: block;
+    border: 1px solid rgb(229, 229, 229);
+    border-radius: 20px;
+    padding: 15px;
+    max-height: 150px;
+    margin: 100px auto;
+    top: 176px;
+    width: 400px;
+    text-align: center;
+}
+
+.input-set-field {
+    width: 350px;
+}
+
+.button-load-set {
+    margin: 5px;
+    width: 350px;
+}
