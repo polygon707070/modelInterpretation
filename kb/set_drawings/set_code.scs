@@ -1,0 +1,27 @@
+format_set_json
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf: 
+	[формат set (json)] 
+	(* 
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf: 
+	[format set (json)] 
+	(* 
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/json];;
+
+set_code <- ui_external_languages;
+=> nrel_main_idtf: 
+	[Создание множеств] 
+	(* 
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf: 
+	[Set creater] 
+	(* 
+	<- lang_en;;
+	*);;
